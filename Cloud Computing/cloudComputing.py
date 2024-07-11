@@ -45,3 +45,8 @@
 
 #! Problems solved by Cloud?
 # Flexibility, Cost-Effectiveness, Scalability, Elasticity, High-availability and fault-tolerance, Agility, you can develop software applications, test and launch rapidly.
+
+
+#? Resources: 
+#* https://www.synopsys.com/blogs/chip-design/essential-cloud-computing-characteristics.html
+#* https://cloud.google.com/learn/advantages-of-cloud-computing
