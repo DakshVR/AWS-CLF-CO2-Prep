@@ -47,6 +47,48 @@
 # Flexibility, Cost-Effectiveness, Scalability, Elasticity, High-availability and fault-tolerance, Agility, you can develop software applications, test and launch rapidly.
 
 
+#! Types of Cloud Computing
+
+#* Infrastructure as a Service (IaaS)
+#  Provides building blocks for Cloud IT. provides netoworking, computers, data storage. This provides too much flexibility, it is similar to on-premise IT.
+
+# Example:  Buying pre-packed ingredients like fresh pasta and sauce made by someone else that you use to cook at home. 
+
+#* Platform as a Service (PaaS)
+#  Here you don't need to manage the underlying infrastructure.
+#  Only focus on deployment and management of your application.
+
+# Example: Order takeout or delivery where your meal is prepared for you and you don’t have to worry about the ingredients or how you’ll cook it, but you have to worry about where you’ll eat, the utensils, and cleaning up after your meal.
+
+#* Software as a Service (SaaS)
+# It is a completed product which is ran and managed by the IT service provider.
+
+# Example: Telling your personal chef the exact meal you want. They prepare everything ahead of time for you so that all you have to do is show up and eat.
+
+# We need to manage
+#* The provider manages
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#?   on-premises   #     IaaS         #      Paas       #       SaaS          # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#    Applications  #   Applications   #  Applications    #*  Applications     #
+#        Data      #       Data       #      Data        #*      Data         #
+#      Runtime     #      Runtime     #*    Runtime      #      Runtime       #
+#     Middleware   #    Middleware    #*   Middleware    #    Middleware      #
+#         O/S      #        O/S       #*       O/S       #        O/S         #
+#  Virtualization  #* Virtualization  #  Virtualization  #*  Virtualization   #
+#      Servers     #*     Servers     #      Servers     #*      Servers      #
+#    Storgae       #*     Storgae     #      Storgae     #*      Storgae      #
+#    Networking    #*    Networking   #     Networking   #*     Networking    #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+
+#? Pricing
+# Compute                   : Pay for compute time
+# Storage                   : Pay for data stored in cloud
+# Data Tranfer out of cloud : Data transfer IN is free
+
 #? Resources: 
 #* https://www.synopsys.com/blogs/chip-design/essential-cloud-computing-characteristics.html
 #* https://cloud.google.com/learn/advantages-of-cloud-computing
+
+#* https://cloud.google.com/discover/types-of-cloud-computing#:~:text=The%20main%20three%20types%20of,SaaS)%2C%20and%20serverless%20computing.
