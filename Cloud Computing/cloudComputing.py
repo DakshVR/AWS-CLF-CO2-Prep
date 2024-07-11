@@ -5,7 +5,6 @@
 # 
 #   Has IP                          Has IP 
 
-
 #  Just like sending post mail, you have address and your friend has address and the network is post office.
 
 #! What is server composed of?
