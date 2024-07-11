@@ -29,6 +29,17 @@
 #     WAF (Web Application Firewall)
 #       AWS Shield (DDoS protection)
 
+#? Availability Zones
+#  It is composed of multiple data centers with redundant power, networking, and connectivity and are used to deploy infrastructure.
+
+#! Which services has a global scope?
+# IAM, Route 53, CloudFront, WAF, Shield
+
+#! Definition of Elasticity
+#  Automatic and quick availability to aquire resources as you need them and release them when you don't need them.
+
+#! Definition of Cloud Computing
+#  Cloud computing is the ON-DEMAND delivery of computer power, database storage, applications, and other IT resources. without direct active management by the user.
 
 #! ***************** Shared Responsibility Model ***************
 
